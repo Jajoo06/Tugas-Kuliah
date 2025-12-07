@@ -1,0 +1,11 @@
+{
+    "name": "FloodMonitor",
+    "alias": "floodmonitor",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FloodMonitor\\Providers\\FloodMonitorServiceProvider"
+    ],
+    "files": []
+}
