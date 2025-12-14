@@ -1,0 +1,11 @@
+{
+    "name": "Lokasi",
+    "alias": "lokasi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Lokasi\\Providers\\LokasiServiceProvider"
+    ],
+    "files": []
+}

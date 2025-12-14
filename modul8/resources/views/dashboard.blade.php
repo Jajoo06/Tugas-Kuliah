@@ -59,7 +59,7 @@
             </table>
         </div>
 
-        @if (auth()->user()->isAdmin())
+        @if(auth()->user()->isAdmin())
             <div class="bg-white p-6 rounded-lg shadow-md mt-6">
                 <h3 class="text-lg font-semibold mb-4">Daftar User</h3>
                 <table class="min-w-full table-auto border-collapse border border-gray-300">
